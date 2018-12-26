@@ -7,6 +7,10 @@ Features
 * Import levels created or edited in Tiled back into the game
 * Generate images of all levels in the game
 
+Download
+--------
+Get a prebuilt binary from the [releases page](https://github.com/chausner/PirateninselLevelExport/releases/latest).
+
 Usage
 -----
 **Prerequisites:** you need the original game files. The game runs well in [DOSBox](https://www.dosbox.com/) on modern machines.
